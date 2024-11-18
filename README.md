@@ -22,6 +22,6 @@ A Kaiser Permanente quer entrar na área de cuidados preventivos com o objetivo 
 
 Meu objetivo, nesse contexto, foi levantar custos, recursos necessários e benefícios potenciais do **desenvolvimento de um app** que ofereça aos membros da Kaiser Permanente auxílio e incentivo da para criar ou melhorar hábitos saudáveis.
 
-Os resultados obtidos podem ser vistos no Pitch Deck do produto que apresenta o **business case**, na Design Sprint que mostra todas as fases, **metodologia** usadas e o **protótipo** para o design do app e no Desenvolvimento que traz os **testes realizados**, **entrevistas com usuários** e **estratégia para o lançamento**.
+Os resultados obtidos podem ser vistos no [Pitch Deck](https://github.com/CarolinaSchin/Product-Management/blob/main/product-pitch.pptx) do produto que apresenta o **business case**, na [Design Sprint](https://github.com/CarolinaSchin/Product-Management/blob/main/design-sprint-project.pptx) que mostra todas as fases, **metodologia** usadas e o **protótipo** para o design do app e no [Desenvolvimento](https://github.com/CarolinaSchin/Product-Management/blob/main/product-dev.pptx) que traz os **testes realizados**, **entrevistas com usuários** e **estratégia para o lançamento**.
 
-Por fim, vale citar o **PRD** que garante a documentação com visão geral e detalhada do app para colaboradores e stakeholders.
+Por fim, vale citar o [**PRD**](https://github.com/CarolinaSchin/Product-Management/blob/main/Product%20Launch%20PRD.pdf) que garante a documentação com visão geral e detalhada do app para colaboradores e stakeholders.
